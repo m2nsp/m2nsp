@@ -24,7 +24,7 @@
 </span>
 
 ## Study-Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=m2nseop)](https://m2nseop.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://m2nseop.tistory.com)
 
 
 
