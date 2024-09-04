@@ -24,12 +24,7 @@
 </span>
 
 ## Study-Blog
-<span>
-  <a href="https://www.https://m2nseop.tistory.com/">
-    <img src="[https://github.com/loosie/github-readme-tistory-card](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)">
-  </a>
-</span>
-[![Tistory's Badge](https://img.shields.io/badge/Tistory-Blog-orange)](https://m2nseop.tistory.com)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=codingtori)](https://m2nseop.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=m2nseop)](https://m2nseop.tistory.com)
+
 
 
