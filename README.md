@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Algorithm
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codingtori)](https://solved.ac/codingtori)
+
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mini071663@gmail.com)](mailto:mini071663@gmail.com)
 <span>
