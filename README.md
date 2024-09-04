@@ -24,5 +24,10 @@
 </span>
 
 ## Study-Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=codingtori)](https://github.com/loosie/github-readme-tistory-card)
+<span>
+  <a href=:https://www.https://m2nseop.tistory.com/">
+    <img src="https://github.com/loosie/github-readme-tistory-card">
+  </a>
+</span>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://github.com/loosie/github-readme-tistory-card)
 
