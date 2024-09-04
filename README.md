@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <span>
   <a href="https://www.instagram.com/m2nseop/">
-    <img src="![https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </span>
 ## Study-Blog
