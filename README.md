@@ -24,3 +24,5 @@
 </span>
 
 ## Study-Blog
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=codingtori)](https://github.com/loosie/github-readme-tistory-card)
+
