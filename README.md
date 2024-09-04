@@ -30,5 +30,6 @@
   </a>
 </span>
 [![Tistory's Badge](https://img.shields.io/badge/Tistory-Blog-orange)](https://m2nseop.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=codingtori)](https://m2nseop.tistory.com)
 
 
