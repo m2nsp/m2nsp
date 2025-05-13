@@ -5,41 +5,41 @@ Currently interested in database optimization and writing clean, maintainable co
 
 ## 🛠Tech Stack
 
-**Languages**
+**Languages** <br/>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Backend**
+**Backend** <br/>
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-**Database**
+**Database** <br/>
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps**
+**DevOps** <br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Projects
 ### 💱 Currex : A P2P Foreign Currency Exchange Matching Service
-A web platform that matches users for foreign currency exchange based on real-time location
-- Real-time chat with WebSocket & Redis
+A web platform that matches users for foreign currency exchange based on location & Real-time chat with WebSocket & Redis
 - Tech: FastAPI, Node.js, MongoDB, Redis, Docker, AWS
 - [GitHub Repo](https://github.com/Capstone-infinite-challenge/Currex)
 
 ### 🌱 Garden : Focus Timer
-A web app that encourages users to focus on real-life tasks by staying away from their phones and growing a virtual garden.
+A web app that encourages users to focus on real-life tasks by staying away from their phones and growing a virtual garden. <br/>
 Implemented the mission system, which rewards users for completing specific focus goals
 - Tech: Node.js, PostgreSQL
 - [GitHub Repo](https://github.com/codeit-garden/Garden-BE)
 
 ### 💊 VitaCoach: Virtual Health Supplement Store
 A website simulating a functional food e-commerce platform.
+- Designed and developed RESTful APIs
 - Tech: Node.js, PostgreSQL
 - [GitHub Repo](https://github.com/VitaCoach/VitaCoach)
 
