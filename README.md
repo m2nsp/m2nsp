@@ -43,6 +43,12 @@ A website simulating a functional food e-commerce platform.
 - Tech: Node.js, PostgreSQL
 - [GitHub Repo](https://github.com/VitaCoach/VitaCoach)
 
+## 📊 Activities / Awards
+- 💬 Member of EFUB (2025)
+- 🥇 1st place at Codeit Ewha Hackathon (2025)
+- 💬 Member of codeit boost (2024)
+- 💬 Git Study Group Team Lead at ECC (Ewha Computer Club) (2023) 
+
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m2nsp)](https://github.com/anuraghazra/github-readme-stats)
 [![stats](https://github-readme-stats.vercel.app/api?username=m2nsp)](https://github.com/m2nsp/github-readme-stats)
