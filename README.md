@@ -25,7 +25,7 @@ Currently interested in database optimization and writing clean, maintainable co
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Projects
+## 💼Projects
 ### 💱 Currex : A P2P Foreign Currency Exchange Matching Service
 A web platform that matches users for foreign currency exchange based on location & Real-time chat with WebSocket & Redis
 - Tech: FastAPI, Node.js, MongoDB, Redis, Docker, AWS
@@ -51,7 +51,7 @@ A website simulating a functional food e-commerce platform.
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://m2nseop.tistory.com)
 
 
-## Contact
+## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mini071663@gmail.com)](mailto:mini071663@gmail.com)
 <span>
   <a href="https://www.instagram.com/m2nseop/">
