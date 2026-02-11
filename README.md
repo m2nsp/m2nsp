@@ -46,23 +46,9 @@ A website simulating a functional food e-commerce platform.
 - [GitHub Repo](https://github.com/VitaCoach/VitaCoach)
 
 ## 📊 Activities / Awards
+- 🥇 HultPrize Oncampus Local competition in EWHA excellence prize (2026)
 - 💬 Member of EFUB (2025)
 - 🥇 1st place at Codeit Ewha Hackathon (2025)
 - 💬 Member of codeit boost (2024)
 - 💬 Git Study Group Team Lead at ECC (Ewha Computer Club) (2023) 
 
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m2nsp)](https://github.com/anuraghazra/github-readme-stats)
-[![stats](https://github-readme-stats.vercel.app/api?username=m2nsp)](https://github.com/m2nsp/github-readme-stats)
-
-## Study-Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://m2nseop.tistory.com)
-
-
-## 📫Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mini071663@gmail.com)](mailto:mini071663@gmail.com)
-<span>
-  <a href="https://www.instagram.com/m2nseop/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</span>
