@@ -7,7 +7,6 @@ Currently interested in database optimization and writing clean, maintainable co
 
 **Languages** <br/>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -39,11 +38,11 @@ Implemented the mission system, which rewards users for completing specific focu
 - Tech: Node.js, PostgreSQL
 - [GitHub Repo](https://github.com/codeit-garden/Garden-BE)
 
-### 💊 VitaCoach: Virtual Health Supplement Store
-A website simulating a functional food e-commerce platform.
-- Designed and developed RESTful APIs
-- Tech: Node.js, PostgreSQL
-- [GitHub Repo](https://github.com/VitaCoach/VitaCoach)
+### 🍽️ SSAK: Food Waste Reduction Platform
+A platform that reduces food waste through real-world campaign operations and data-driven insights. <br/>
+Developed toy-app and backend APIs and improved system reliability by handling runtime issues during live campaigns
+- Tech: fastAPI, springBoot, MySQL
+- [GitHub Repo](https://github.com/team-SSAK/toy_app)
 
 ## 📊 Activities / Awards
 - 🥇 HultPrize Oncampus Local competition in EWHA excellence prize (2026)
