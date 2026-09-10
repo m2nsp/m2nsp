@@ -32,12 +32,6 @@ A web platform that matches users for foreign currency exchange based on locatio
 - Tech: FastAPI, Node.js, MongoDB, Redis, Docker, AWS
 - [GitHub Repo](https://github.com/Capstone-infinite-challenge/Currex)
 
-### 🌱 Garden : Focus Timer
-A web app that encourages users to focus on real-life tasks by staying away from their phones and growing a virtual garden. <br/>
-Implemented the mission system, which rewards users for completing specific focus goals
-- Tech: Node.js, PostgreSQL
-- [GitHub Repo](https://github.com/codeit-garden/Garden-BE)
-
 ### 🍽️ SSAK: Food Waste Reduction Platform
 A platform that reduces food waste through real-world campaign operations and data-driven insights. <br/>
 Developed toy-app and backend APIs and improved system reliability by handling runtime issues during live campaigns
@@ -45,6 +39,7 @@ Developed toy-app and backend APIs and improved system reliability by handling r
 - [GitHub Repo](https://github.com/team-SSAK/toy_app)
 
 ## 📊 Activities / Awards
+- 💻 OSSCA (Open Source Contribution Academy) – Fedify Project (2026)
 - 🥇 HultPrize Oncampus Local competition in EWHA excellence prize (2026)
 - 💬 Member of EFUB (2025)
 - 🥇 1st place at Codeit Ewha Hackathon (2025)
